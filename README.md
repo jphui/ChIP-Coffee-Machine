@@ -1,2 +1,4 @@
 # ChIP Coffee Machine
  Coffee machine competition administered by the UCLA AIChE chapter
+ 
+ The .ino sketch contains the OS for the *Coffee's Bruin* team's coffee machine. As to be expected with any basic embedded system, the structure follows a state-machine like control flow. Our machine ensured an efficient coffee making process that also catered to individual preference with regards to brew strength. By adapting our design to constraints concerning power and circuitry, my team was able to provide users a unique tactile and visual interaction with the product, all while achieving spec-designated temperature and production time.The final product won the first place overall award and is used as both a model for future ChIP teams and a statement piece for UCLA's AIChE chapter at tabled events.
